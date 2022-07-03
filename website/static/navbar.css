@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.navbar_section {
+    overflow: hidden;
+    background-color: #4d4d4d;
+    padding-right: 30px;
+}
+
+.navbar_section a  {
+    overflow: hidden;
+    float: right;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar_section a:hover {
+  background-color: #f2f2f2;
+  color: black;
+  transition: .3s;
+}
